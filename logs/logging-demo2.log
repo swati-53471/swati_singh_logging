@@ -1,0 +1,9 @@
+2020-02-24 22:58:19 INFO  App:11 - program started
+2020-02-24 22:58:19 INFO  App:24 - entering input method
+2020-02-24 22:58:24 INFO  App:38 - entering cost method
+2020-02-24 22:58:24 WARN  App:52 - Invalid choice.Please try again!!!
+2020-02-24 22:58:24 INFO  App:24 - entering input method
+2020-02-24 22:58:32 INFO  App:38 - entering cost method
+2020-02-24 22:58:32 INFO  App:57 - total cost calulated
+2020-02-24 22:58:32 INFO  App:57 - total cost calulated
+2020-02-24 22:58:32 INFO  App:15 - program terminated

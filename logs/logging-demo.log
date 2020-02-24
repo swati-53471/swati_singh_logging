@@ -1,0 +1,17 @@
+2020-02-24 22:34:13 INFO  CompoundInterest:19 - entering input method
+2020-02-24 22:34:18 INFO  CompoundInterest:28 - input method completed
+2020-02-24 22:34:18 INFO  CompoundInterest:19 - entering calculate method
+2020-02-24 22:34:18 INFO  CompoundInterest:24 - Simple interest calculated
+2020-02-24 22:34:20 INFO  CompoundInterest:19 - entering input method
+2020-02-24 22:34:24 INFO  CompoundInterest:28 - input method completed
+2020-02-24 22:34:24 INFO  CompoundInterest:19 - entering calculate method:
+2020-02-24 22:34:24 INFO  CompoundInterest:24 - Compound Interest is calculated
+2020-02-24 22:57:01 INFO  CompoundInterest:19 - entering input method
+2020-02-24 22:57:05 INFO  CompoundInterest:28 - input method completed
+2020-02-24 22:57:05 INFO  CompoundInterest:19 - entering calculate method
+2020-02-24 22:57:05 INFO  CompoundInterest:24 - Simple interest calculated
+2020-02-24 22:57:08 INFO  CompoundInterest:19 - entering input method
+2020-02-24 22:57:12 INFO  CompoundInterest:28 - input method completed
+2020-02-24 22:57:12 INFO  CompoundInterest:19 - entering calculate method:
+2020-02-24 22:57:12 INFO  CompoundInterest:24 - Compound Interest is calculated
+2020-02-24 22:57:14 WARN  InterestTest:37 - Invalid number !please try again!!
